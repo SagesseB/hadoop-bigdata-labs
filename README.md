@@ -1,7 +1,7 @@
-# Hadoop Big Data Labs
+Hadoop Big Data Labs
 
 Objectif du projet
-  Ce projet a pour objectif la **prise en main pratique de l’écosystème Big Data Hadoop, à travers la mise en place d’un cluster Hadoop multi-nœuds avec Docker, la manipulation du HDFS, puis le développement et l’exécution d’applications MapReduce en Java.
+  Ce projet a pour objectif la prise en main pratique de l’écosystème Big Data Hadoop, à travers la mise en place d’un cluster Hadoop multi-nœuds avec Docker, la manipulation du HDFS, puis le développement et l’exécution d’applications MapReduce en Java.
   L’ensemble des travaux a été réalisé pas à pas afin de comprendre le rôle de chaque composant et les interactions entre eux.
 
 Environnement technique
