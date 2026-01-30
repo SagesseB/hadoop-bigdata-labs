@@ -62,5 +62,3 @@ Captures d’écran
 Conclusion
   Ce projet m’a permis de comprendre concrètement le fonctionnement d’un cluster Hadoop, du stockage distribué avec HDFS jusqu’au traitement massif des données avec MapReduce.
   Les compétences acquises constituent une base solide pour aborder des technologies Big Data plus avancées telles que Spark, Hive ou Kafka.
-
-📌 *Projet réalisé dans un cadre pédagogique encadré.*
